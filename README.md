@@ -1,28 +1,30 @@
-message_stacked_bucket
+# message_stacked_bucket
 
 Client + Server application, chat, messenger, developed for educational purposes. Perhaps, someday it will be finished or remade.
 
-Installation
-
+## Installation
 Installing from pypi (using pip):
 
-pip install message-stacked-bucket
-Usage
+    pip install message-stacked-bucket
 
-First
+## Usage
 
-Start server in cmd from the application folder ...\Python36\Lib\site-packages\message stacked bucket>
+#### First
 
-python server.py
-Then
+Start server in ``cmd`` from the application folder ``...\Python36\Lib\site-packages\message stacked bucket>``
 
-Start one or more clients in cmd from the application folder ...\Python36\Lib\site-packages\message stacked bucket>
+    python server.py
 
-python client.py
-Dependence
+#### Then
 
-Python 3 PyQt5 SQLAlchemy pillow
+Start one or more clients in ``cmd`` from the application folder ``...\Python36\Lib\site-packages\message stacked bucket>``
 
-Pypi pacage
+    python client.py
+
+## Dependence
+
+``Python 3`` ``PyQt5`` ``SQLAlchemy`` ``pillow``
+
+## Pypi pacage
 
 https://pypi.python.org/pypi/message-stacked-bucket
