@@ -1,0 +1,2 @@
+2017-10-29 05:34:54,046 - INFO - args: ('TestName', 20) = 100 - test_func - log.test_decorators
+2017-10-31 18:39:16,470 - INFO - args: ('TestName', 20) = 100 - test_func - log.test_decorators
