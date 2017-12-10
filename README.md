@@ -1,19 +1,23 @@
-# message_stacked_bucket
+# BundleBand
 
-Client + Server application, chat, messenger, developed for educational purposes. Perhaps, someday it will be finished or remade.
+Чат (Клиент + сервер). Клиент использует Gui.
+Что не сделано:
+- тесты
+- возможность группового чата (с помощью drag & drop)
+- Отображение статуса (Онлайн / Оффлайн) пользователя в списке друзей
 
-## Installation
-Installing from pypi (using pip):
+## Установка
+Установка через pip:
 
-    pip install message-stacked-bucket
+    pip install bundleband
 
-## Usage
+## Гайд
 
-#### First
+#### Запуск сервера
 
-Start server in ``cmd`` from the application folder ``...\Python36\Lib\site-packages\message stacked bucket>``
+Используем файл в папке ``/my package``
 
-    python server.py
+    server.py
 
 #### Then
 
@@ -23,7 +27,7 @@ Start one or more clients in ``cmd`` from the application folder ``...\Python36\
 
 ## Dependence
 
-``Python 3`` ``PyQt5`` ``SQLAlchemy`` ``pillow``
+``Python 3`` ``PyQt5`` ``SQLAlchemy``
 
 ## Pypi pacage
 
