@@ -6,5 +6,5 @@ setup(
     packages=find_packages(),
     author='Kirill Komarov',
     author_email='k.komv@ya.ru',
-    url='https://github.com/johnsmith/foobar-package',
+    url='https://github.com/OOPSA45/Python-learn-',
 )
